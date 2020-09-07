@@ -78,7 +78,7 @@ clear
 msg -bar2
 echo -e "\033[1;37m       =====>>►► 🐲 PANEL VPS•MX 🐲 ◄◄<<=====       \033[1;37m"
 msg -bar
-msg -ama "   Cambiar Colores del Panel \033[1;31m[\033[1;32m VPS-MX \033[1;97m #MOD MX# \033[1;31m]"
+msg -ama "   Cambiar Colores del Panel \033[1;31m[\033[1;32m VPS-MX \033[1;97m #MOD THONYDROID# \033[1;31m]"
 msg -bar2
 msg -ama "$(fun_trans "Selecione 7 cores"): "
 echo -e '\033[1;37m [1] ###\033[0m'
