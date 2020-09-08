@@ -332,7 +332,7 @@ msg -bar2
 [[ $1 = "" ]] && funcao_idioma || {
 [[ ${#1} -gt 2 ]] && funcao_idioma || id="$1"
  }
-Key="VPS-MX-Mod?%ab97cda8f?K81mx@+95+94@"
+Key="LaCasitaDelTerrorK?%ab97cda8f?K81mx@+95+94@"
 REQUEST=$(echo $kalix1|$PUTO)
 echo "$IP" > /usr/bin/vendor_code
 cd $HOME
